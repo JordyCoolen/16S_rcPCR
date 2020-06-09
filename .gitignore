@@ -1,0 +1,11 @@
+results
+results_NCBI_16S_20201903
+work
+merged
+old
+.empty
+.nextflow
+.nextflow.log*
+16s.sif
+kma_db/NCBI_16S.*
+kma_db/.*
